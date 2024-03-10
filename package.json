@@ -1,13 +1,13 @@
 {
-  "name": "nodejs",
+  "name": "animated",
   "version": "1.0.0",
-  "description": "",
+  "description": "add a animated profile picture to discord bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lights.out#0",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
