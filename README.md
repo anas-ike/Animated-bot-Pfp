@@ -16,7 +16,7 @@
   <a href="https://github.com/anas-ike/Animated-bot-Pfp/stargazers">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/anas-ike/Animated-bot-Pfp">
   </a>
-  <a href="https://github.com/anas-ike/Animated-bot-Pfp/blob/main/LICENSE.txt">
+  <a href="https://github.com/anas-ike/Animated-bot-Pfp/blob/main/LICENSE">
   <img alt="GitHub license" src="https://img.shields.io/github/license/anas-ike/Animated-bot-Pfp">
   </a>
 </p>
