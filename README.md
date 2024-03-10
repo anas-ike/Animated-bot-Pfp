@@ -6,6 +6,12 @@
 
 <p align="center">Welcome to TheElf - Where Developers Thrive!</p>
 
+how to upload animated gif??
+fork / download this repository and upload you avatar in 1:1 ratio means all side equal. then rename it to `avatar.gif` then enter you bot token in .env `TOKEN=your_token_here` . now install the dependencies with
+`npm install`
+then Start not with 
+`node index.js / node` .
+ 
 <p align="center">
   <a href="https://github.com/anas-ike/Animated-bot-Pfp/issues">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/anas-ike/Animated-bot-Pfp">
