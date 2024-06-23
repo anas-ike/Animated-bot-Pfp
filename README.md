@@ -19,6 +19,7 @@ then Start not with
   <a href="https://github.com/anas-ike/Animated-bot-Pfp/forks">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/anas-ike/Animated-bot-Pfp">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fanas-ike%2FAnimated-bot-Pfp?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanas-ike%2FAnimated-bot-Pfp.svg?type=shield"/></a>
   <a href="https://github.com/anas-ike/Animated-bot-Pfp/stargazers">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/anas-ike/Animated-bot-Pfp">
   </a>
@@ -32,3 +33,6 @@ then Start not with
 <a href="https://discord.com/invite/PqVQgXTweC">
   <img src="https://invidget.switchblade.xyz/PqVQgXTweC" alt="Discord Server">
 </a>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fanas-ike%2FAnimated-bot-Pfp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fanas-ike%2FAnimated-bot-Pfp?ref=badge_large)
